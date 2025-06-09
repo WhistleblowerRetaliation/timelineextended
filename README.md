@@ -1,44 +1,96 @@
-# Whistleblower Retaliation Timeline  
-**Yu Chao vs. Falun Gong / Shen Yun**  
-_Public Documentation of Retaliation Campaign Following Whistleblower Reports_  
+# Whistleblower Retaliation Timeline: Yu Chao vs. Falun Gong
 
-👉 **Timeline last updated: June 2025**  
+This project documents the escalating pattern of retaliation faced by whistleblower **Yu Chao**, a long-time Falun Gong practitioner, after he publicly exposed internal abuses within affiliated organizations such as **Shen Yun Performing Arts**.
 
-## Timeline Links
+The timeline and supporting materials aim to provide a clear, factual record for use by:
 
-- [View Concise Timeline](https://whistleblowerretaliation.github.io/timelineconcise/)  
-- [View Extended Timeline](https://whistleblowerretaliation.github.io/timelineextended/)  
+- legal professionals
+- investigative journalists
+- human rights advocates
+- concerned members of the public
 
-## 📖 Project Purpose
+👉 [View Concise Timeline](https://whistleblowerretaliation.github.io/timelineconcise/)  
+👉 [View Extended Timeline](https://whistleblowerretaliation.github.io/timelineextended/)
 
-This timeline chronicles the public retaliation campaign faced by whistleblower Yu Chao after he disclosed abuse and misconduct related to the Shen Yun performing arts company and Falun Gong leadership.
+---
 
-It provides a transparent, evidence-based view of the sequence of public statements, media narratives, legal actions, and threats that have unfolded. The purpose is to assist legal counsel, journalists, and concerned observers in understanding the documented pattern of escalating retaliation.
+## Project Structure
 
-The project is an independent volunteer effort presented in good faith and with careful attribution to original sources.
+**🗂 Core Materials**
 
-## 📌 Methodology
+- [Public Statement](Public_Statement.md) — summary statement on the retaliation case
+- [Case Background](Case_Background.md) — who is Yu Chao, why this timeline matters, evidence methodology, key documents
+- [Timeline (Concise)](https://whistleblowerretaliation.github.io/timelineconcise/) — public-friendly summary version
+- [Timeline (Extended)](https://whistleblowerretaliation.github.io/timelineextended/) — full version with detailed entries and source links
 
-**Sources**: Only verifiable public statements, published articles, or publicly available videos are included.
+---
 
-**Attribution**: Where a claim comes from a Falun Gong-affiliated source (e.g., *Minghui.org*, *Epoch Times*), this is clearly stated. No independent verification is implied unless noted.
+## Why This Timeline Matters
 
-**Neutrality**: The timeline presents a chronological sequence of facts, not an argument. Readers may form their own conclusions based on the documented pattern.
+This is not an ordinary online dispute. The materials document:
 
-## ⚠️ Disclaimer
+- structured, coordinated retaliation by organizational actors
+- the use of ideological smears, spiritual vilification, and retaliatory law enforcement referrals
+- escalation into real-world consequences including an FBI search and criminal charges
+- weaponization of protected status to silence dissent within a high-control group
 
-All entries reflect publicly available materials. Statements quoted from Falun Gong-affiliated sources or other actors represent those parties' public statements. No private materials or unverified allegations are included.
+The case also raises urgent public-interest questions:
 
-This project aims to inform public understanding and support transparency around whistleblower retaliation patterns. It is not intended to defame, nor to misattribute, nor to overstate causality beyond what public documentation supports.
+- Who protects individuals harmed within such organizations when protected status is used to shield abuse?
+- How do we safeguard freedom of expression and whistleblower rights in such contexts?
+- How do we prevent the misuse of ideological narratives to dehumanize critics (e.g., labeling someone a “negative being”)?
 
-## 📌 Intended Use
+---
 
-- Provide a resource to potential legal counsel to understand the factual sequence.
-- Support public understanding of a complex and under-reported case.
-- Assist journalists in contextualizing the broader issues of internal repression within high-control groups.
-- Serve as a reference point for future accountability efforts.
+## Evidence Methodology
 
-## Contact
+This project draws upon:
 
-**Email**: whistleblower.retaliation@gmx.com  
-(Journalists, lawyers, and researchers are welcome to reference this project.)
+### Primary sources:
+
+- original **Minghui.org** articles
+- official **Falun Gong–affiliated English translations**
+- **Yu Chao’s YouTube videos** documenting his disclosures and responses
+- mainstream media coverage (e.g., **The New York Times** series)
+- public legal filings (e.g., *Chang v. Shen Yun*, *Sun et al v. Shen Yun*)
+- public references to related FBI / law enforcement actions
+
+### Data collection:
+
+- legally archived articles from original sources
+- publication dates use the **Chinese original publication time**, as this was the first release and was directly countered by Yu Chao’s YouTube responses
+- English translations are included as provided by the organizations themselves for accessibility and accuracy
+
+### Screening methodology:
+
+- use of **AI-assisted tools** to detect ideological language and possible coded targeting
+- **manual expert review** based on ground truth labels and known Falun Gong symbolism
+
+---
+
+## Important Notes
+
+- This project does not target religious belief. We affirm **freedom of religion** and respect individual faith.
+- The focus is on **organizational conduct**: retaliation against dissent, spiritual vilification, and abuse of protected status.
+- No person should be dehumanized or face reprisals for speaking out on matters of public concern.
+
+---
+
+## Contacts
+
+**Yu Chao**
+
+- [YouTube Channel 1](https://www.youtube.com/@ChaoYu-nb3ex)
+- [YouTube Channel 2](https://www.youtube.com/@traveller-returning-home)
+- [GoFundMe Page](https://www.gofundme.com/f/2a-advocate?attribution_id=sl:12bfcf21-7a90-48be-bc8a-c2212ec0f556&utm_campaign=man_sharesheet_ft&utm_medium=customer&utm_source=copy_link)
+- Email: realyuchao@gmail.com
+
+---
+
+## License
+
+This project is provided under the **MIT License**.
+
+**Journalists, lawyers, researchers, and the general public are welcome to reference this project.**
+
+---
