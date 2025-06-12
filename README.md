@@ -20,8 +20,7 @@ The timeline and supporting materials aim to provide a clear, factual record for
 
 - [Public Statement](Public_Statement.md) — summary statement on the retaliation case
 - [Case Background](Case_Background.md) — who is Yu Chao, why this timeline matters, evidence methodology, key documents
-- [Timeline (Concise)](https://whistleblowerretaliation.github.io/timelineconcise/) — public-friendly summary version
-- [Timeline (Extended)](https://whistleblowerretaliation.github.io/timelineextended/) — full version with detailed entries and source links
+- [Yu Chao Personal Rebuttal](link) — Yu Chao’s own statement and rebuttal addressing recent allegations and clarifying key facts from his perspective.
 
 ---
 
